@@ -61,10 +61,7 @@ The pipeline is scheduled to run daily at **6:00 AM**, ingesting the latest arti
 
 ---
 
-## 💬 Instructor Note (Transcript Excerpt)
-> “We covered all the components in this architecture... starting from Data Factory, through Synapse, and finally building alerts with Data Activator integrated into Microsoft Teams…”
 
----
 
 ## 👨‍💻 Author
 **Hareen Edla**
